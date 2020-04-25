@@ -1,0 +1,22 @@
+{
+  "name": "reactnika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sayHello": "echo 'hello'",
+    "createBuild": "mkdir build",
+    "deleteBuild": "rd /s /q build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/ReactNika.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/ReactNika/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/ReactNika#readme"
+}
